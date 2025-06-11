@@ -5,3 +5,27 @@ Grupo 6 prueba de rama remota
 -Gerald Opitz
 
 -Juan Rivas
+
+
+Preguntas finales:
+
+
+● ¿Qué fue lo más desafiante al trabajar con ramas y fusiones en Git?
+
+R: Es el manejo de conflictos, ya que es esencial identificar con precisión la causa del conflicto y tomar la decisión correcta sobre qué versión conservar, evitando que generar errores en la rama donde se realizará la fusión.
+
+● ¿Por qué es importante usar commits frecuentes con mensajes claros?
+
+R: Para identificar de forma precisa qué modificaciones podrían haber causado un posible error futuro dentro del código y  tener un mayor control sobre los cambios.
+
+● ¿Cómo Git ayuda a evitar conflictos cuando se trabaja en equipo?
+
+R: Muestra un mensaje de error que señala el conflicto y ofrece la opción de conservar una versión, combinar los cambios o editarlos manualmente para resolver el problema.
+
+● ¿Qué aprendiste sobre el manejo de conflictos al fusionar ramas?
+
+R: Hay que tener mucho cuidado al gestionar ramas y saber cómo fusionarlas para no generar conflictos innecesarios que puedan causar errores.
+
+● ¿En qué tipo de proyectos (personales o académicos) te gustaría aplicar Git desde ahora?
+
+R: En todos los proyectos es conveniente utilizar Git, sobre todo en proyectos más complejos en donde un error en una función pueda afectar a todo el proyecto.
